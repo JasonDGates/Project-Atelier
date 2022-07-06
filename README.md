@@ -10,7 +10,8 @@
 - <a href="#Roadmap">Roadmap</a>
 
 ### Description
-Project Atelier is a monolithic front end E-Commerce application redesigned from the ground up to accomodate increased growth and traffic. Project Atelier was built using 
+Project Atelier is a monolithic front end E-Commerce application redesigned from the ground up to accomodate increased growth and traffic. Project Atelier was built using React, React Hooks, styled-components, and Express.
+
 # Installation
 
 ### Required (latest version of)

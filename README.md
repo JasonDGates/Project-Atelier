@@ -1,6 +1,16 @@
 <img alt='design' src='https://i.imgur.com/MiHRwo2.png'>
 
 ---
+# Table of Contents
+
+Team Members
+Description
+Wireframe design & Finished Product (Overview Module)
+Installation
+LightHouse Audit Results
+Roadmap
+
+Project Atelier is a monolithic front end E-Commerce application redesigned from the ground up to accomodate increased growth and traffic. Project Atelier was built using 
 # Installation
 
 ### Required (latest version of)

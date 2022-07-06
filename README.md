@@ -6,7 +6,7 @@
 Team Members
 Description
 Wireframe design & Finished Product (Overview Module)
-<a href="#google">Installation</a>
+<a href="#Instructions">Installation</a>
 LightHouse Audit Results
 Roadmap
 

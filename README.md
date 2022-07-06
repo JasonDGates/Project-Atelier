@@ -3,12 +3,11 @@
 ---
 # Table of Contents
 
-Team Members
-Description
-Wireframe design & Finished Product (Overview Module)
+<a href="#Description">Description</a>
+<a href="#Wireframe">Wireframe design & Finished Product</a>
 <a href="#Instructions">Installation</a>
-LightHouse Audit Results
-Roadmap
+<a href="#Lighthouse">LightHouse Audit Results</a>
+<a href="#Roadmap">Roadmap</a>
 
 Project Atelier is a monolithic front end E-Commerce application redesigned from the ground up to accomodate increased growth and traffic. Project Atelier was built using 
 # Installation
